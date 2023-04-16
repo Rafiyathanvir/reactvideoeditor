@@ -4,7 +4,7 @@
 Reactive is a react based video editor made with the mission to build the simplest yet powerful video editing software. So, buckle up & let's get started!
 
 ## Demo
-1. Enjoy reactive here:https://enchanting-rolypoly-80fab8.netlify.app/dashboard
+1. Enjoy reactive here:https://friendly-souffle-e4312b.netlify.app/dashboard
 
 ## Install NPM package:
 To install reactive NPM package, run ```npm i react-video-editor```
